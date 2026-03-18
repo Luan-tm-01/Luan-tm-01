@@ -1,6 +1,6 @@
 # Luan Teixeira
 
-Me chamo Luan Teixeira Martins, tenho 20 anos e sou natural do Rio Grande do Sul. Atualmente curso Análise e Desenvolvimento de Sistemas no IFRS. Tenho conhecimento em Python, HTML, CSS e JavaScript. Gosto de desenvolvimento web e estou sempre buscando aprender mais e melhorar meus projetos.
+Me chamo Luan Teixeira Martins, tenho 20 anos e sou natural do Rio Grande do Sul. Atualmente curso Análise e Desenvolvimento de Sistemas no IFRS. Tenho conhecimento em Python (Django), React, HTML, CSS e JavaScript. Gosto de desenvolvimento web e estou sempre buscando aprender mais e melhorar meus projetos.
 
 ---
 
@@ -40,6 +40,13 @@ Me chamo Luan Teixeira Martins, tenho 20 anos e sou natural do Rio Grande do Sul
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    alt="Django"
+    title="Django" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 <br clear="left">
 <br>
