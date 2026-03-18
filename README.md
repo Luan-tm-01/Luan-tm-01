@@ -7,7 +7,6 @@ Me chamo Luan Teixeira Martins, tenho 20 anos e sou natural do Rio Grande do Sul
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -15,7 +14,6 @@ Me chamo Luan Teixeira Martins, tenho 20 anos e sou natural do Rio Grande do Sul
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -23,7 +21,6 @@ Me chamo Luan Teixeira Martins, tenho 20 anos e sou natural do Rio Grande do Sul
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -31,7 +28,6 @@ Me chamo Luan Teixeira Martins, tenho 20 anos e sou natural do Rio Grande do Sul
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -39,10 +35,13 @@ Me chamo Luan Teixeira Martins, tenho 20 anos e sou natural do Rio Grande do Sul
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<br clear="left">
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-tm-01&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
