@@ -51,4 +51,3 @@ Me chamo Luan Teixeira Martins, tenho 20 anos e sou natural do Rio Grande do Sul
 <br clear="left">
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-tm-01&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
